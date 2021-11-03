@@ -1,0 +1,17 @@
+.botao {
+    border: 0;
+    padding: 15px 30px;
+    font-size: 24px;
+}
+
+.Texto-CinzaClaro {
+    color: gray;
+}
+
+.fundo-Laranja {
+     background-color: orange;
+}
+
+.redondo {
+    border-radius: 30px;
+}
